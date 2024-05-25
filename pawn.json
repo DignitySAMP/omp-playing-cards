@@ -1,0 +1,9 @@
+{
+	"user": "DignitySAMP",
+	"repo": "playing-cards",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
